@@ -1,0 +1,10 @@
+* x.let-star
+
+extendible and minimalistic binding and destructuring
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/ks/x.let-star.git   |
+| commit  | 21e278b  |
+| systems | x.let-star |
+|---------+-------------------------------------------|
+
